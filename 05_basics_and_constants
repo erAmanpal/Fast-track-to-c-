@@ -1,0 +1,13 @@
+/* This is program for playing with constant
+dfjki */
+#include<iostream>
+
+using namespace std;
+
+int main()
+{
+const int pi=3.14;	
+pi=77;  //this line will give you an error
+cout<<pi;
+return 0;
+}
