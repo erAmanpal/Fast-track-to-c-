@@ -1,2 +1,2 @@
 # Fast-track-to-c-
-how to code in c++ noddy program
+Learn to code in c++ (with noddy program)
