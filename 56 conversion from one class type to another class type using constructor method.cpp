@@ -8,13 +8,6 @@ class m
 	void show(){cout<<a;	}
 	void in(){cin>>a;	}
 	int geta(){return a;	}
-/*	operator int()
-	{		return a;	}*/
-	operator cm()
-	{
-		int x; x=a*100;
-		return (cm(x));
-	}
 };
 
 class cm
