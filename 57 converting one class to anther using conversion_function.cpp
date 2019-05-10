@@ -15,7 +15,8 @@ class m
 	float v;
 	public:
 		void in(){ cout<<"input value in meter : "; cin>>v;		}
-		operator cm()		{			return cm(v*100);		}
+			/*Conversion function : for converting one class to another class [here cm to m class] */
+		operator cm()		{			return cm(v*100);		} 
 };
 int main()
 {
